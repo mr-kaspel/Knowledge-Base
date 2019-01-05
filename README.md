@@ -1,5 +1,9 @@
 # Knowledge-Base
 
+<p align="center">
+<img src="head-item.png" alt="Project">
+</p>
+
 ## Возможности
 - [База знаний](#content-1)
 - [ПО/Сервисы](#content-2)
