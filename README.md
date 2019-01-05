@@ -5,34 +5,34 @@
 </p>
 
 ## Возможности
-- [База знаний](#content-1)
-- [ПО/Сервисы](#content-2)
-    - [Сервисы](#content-3)
-    - [Программы](#content-4)
-    - [Закладки](#content-5)
+- [База знаний](#user-content-sample-1)
+- [ПО/Сервисы](#user-content-sample-2)
+    - [Сервисы](#user-content-sample-3)
+    - [Программы](#user-content-sample-4)
+    - [Закладки](#user-content-sample-5)
     
 `Дополнительные сервисы`
 
-- [Расписания](#content-6)
-    - [Отпуск](#content-7)
-    - [Обед](#content-8)
-    - [Мероприятия](#content-9)
-- [Праздники](#content-10)
-    - [Поздравления](#content-11)
-    - [Тайный санта](#content-12)
+- [Расписания](#user-content-sample-6)
+    - [Отпуск](#user-content-sample-7)
+    - [Обед](#user-content-sample-8)
+    - [Мероприятия](#user-content-sample-9)
+- [Праздники](#user-content-sample-10)
+    - [Поздравления](#user-content-sample-11)
+    - [Тайный санта](#user-content-sample-12)
     
 `Дополнительный сервис для управления`
 
 - [Добавить нового пользователя](#content-13)
-- [Опоздания](#content-14)
+- [Опоздания](#user-content-sample-14)
 
 `Оповещения об изменениях документах`
 
-- [Изменения](#content-15)
+- [Изменения](#user-content-sample-15)
 
 `Литература`
 
-- [Дополнительная литература](#content-16)
+- [Дополнительная литература](#user-content-sample-16)
 
 ***
 
